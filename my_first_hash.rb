@@ -1,6 +1,6 @@
 def my_hash(a, b)
   my_hash = {"pen" => "pineapple", "apple" => "pen"}
-
+  return my_hash
 end
 
 

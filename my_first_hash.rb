@@ -1,5 +1,5 @@
 def my_hash(a, b)
-  my_hash = {"pen" => "pineapple", "apple" => "pen"}
+  my_hash = {"pen" => "pineapple"}
   return my_hash
 end
 

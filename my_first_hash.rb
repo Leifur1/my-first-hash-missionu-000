@@ -1,4 +1,4 @@
-def my_hash(a, b)
+def my_hash
   my_hash = {"pen" => "pineapple"}
   return my_hash
 end
